@@ -19,7 +19,7 @@
 <thead>
 <tr>
 <th style="text-align:left">Insel</th>
-<th style="text-align:center">Gr√∂sse</th>
+<th style="text-align:center">Grösse</th>
 <th style="text-align:right">Einwohnerzahl</th>
 </tr>
 </thead>
